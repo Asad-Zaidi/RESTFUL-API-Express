@@ -15,19 +15,17 @@
 
 ## 🛠 Built With<a name="built-with">: JavaScript, Node & Express</a>
 
-### Methods
-<li>
-  Get
-  Put
-  Post
-  Delete
-</li>
+<h2> Methods </h2>
 
+ ### 1.  Get
+ ### 2.  Put
+ ### 3.  Post
+ ### 4.  Delete
  
 
-## 🚀 GitHub <a name="GitHub"></a>
+## 🚀 GitHub Repository <a name="GitHub Repository"></a>
 
-- [GitHub](https://github.com/Asad-Zaidi/RESTFUL-API-Express.git)
+- [GitHub Repository](https://github.com/Asad-Zaidi/RESTFUL-API-Express.git)
 
 ## 📝 License <a name="license"></a>
 
