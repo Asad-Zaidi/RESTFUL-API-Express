@@ -4,8 +4,8 @@ app.use(express.json());
 const products = ["Laptop", "LCD", "Mobile", "Computers", "Tablet", "Printer"];
 
 app.get('/', function (req, res) {
-    res.send('Hello World')
-})
+    res.send('<div style="text-align:center; padding-top:20px;"> <h1>Welcome to Home Page.</h1> <br> <h2>Click here to Explore the Products </h2> <br> <a href="http://localhost:3000/api/products">Click Here</a> </div> ')
+});
 
 app.get("/api/products", function (req, res) {
     res.send(products);
