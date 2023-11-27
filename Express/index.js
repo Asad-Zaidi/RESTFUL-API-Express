@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 app.use(express.json());
-const products = ["Laptop", "LCD", "Mobile"];
+const products = ["Laptop", "LCD", "Mobile", "Computers", "Tablet", "Printer"];
 
 app.get('/', function (req, res) {
     res.send('Hello World')
